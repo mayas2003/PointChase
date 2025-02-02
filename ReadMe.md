@@ -10,5 +10,5 @@ Features:
 4. Scalable Level Progression: Designed to challenge players as they advance through levels.
 
 Technologies Used:
-Python: Core programming language for game logic and mechanics.
-Pygame: Library used for graphics, animations, and user input handling.
+1. Python: Core programming language for game logic and mechanics.
+2. Pygame: Library used for graphics, animations, and user input handling.
